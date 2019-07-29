@@ -2,7 +2,7 @@
 
 echo "<H1>This is Demo of PHP XAMPP</H1>";
 
-$var1 = "tarq";
+$var1 = "tare";
 $var2 = "rate";
 
 echo similar_text($var1,$var2,$percent);
